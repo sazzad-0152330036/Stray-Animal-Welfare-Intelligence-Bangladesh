@@ -1,0 +1,97 @@
+﻿class,rank,feature,coefficient
+Abuse,1,abuse,1.7624895634022448
+Abuse,2,animal cruelty,1.4933258502372169
+Abuse,3,cruelty,1.405745869312473
+Abuse,4,animal abuse,1.171801194242328
+Abuse,5,animal,1.1581507386051717
+Abuse,6,beaten death,0.6256291824742691
+Abuse,7,beaten,0.6256291824742691
+Abuse,8,end killing,0.5975991631355887
+Abuse,9,end,0.5975991631355887
+Abuse,10,torture dogs,0.5975991631355887
+Abuse,11,killing torture,0.5975991631355887
+Abuse,12,torture,0.5975991631355887
+Conflict,1,relocation,2.1578200916416033
+Conflict,2,animal rights,1.369479916227297
+Conflict,3,rights,1.2766133315820078
+Conflict,4,removal,1.0659044851548796
+Conflict,5,dog removal,1.0659044851548796
+Conflict,6,relocation stray,1.0508825813958782
+Conflict,7,dog relocation,0.7615024028603634
+Conflict,8,lovers,0.7467500430212578
+Conflict,9,baridhara,0.6332191068786885
+Conflict,10,relocate,0.6070032768329549
+Conflict,11,strays,0.5621084801370989
+Conflict,12,animal,0.5531115473055371
+Disease,1,rabies,2.6060987747110125
+Disease,2,vaccination,1.3061510489287587
+Disease,3,vaccine,1.0658607280740093
+Disease,4,rabies vaccine,0.9778750209486157
+Disease,5,bangladesh,0.6455964362705553
+Disease,6,shortage,0.6372774839852187
+Disease,7,vaccination drive,0.5868025408868816
+Disease,8,drive,0.5711322265483546
+Disease,9,dog vaccination,0.4915235431859404
+Disease,10,drive stray,0.4814786226257749
+Disease,11,begins,0.4550954108267652
+Disease,12,vaccine shortage,0.44845498289030655
+Human-Animal Conflict,1,injured,1.277538967590366
+Human-Animal Conflict,2,gaibandha,1.057705270272587
+Human-Animal Conflict,3,dog bite,0.9314826441775133
+Human-Animal Conflict,4,bite,0.9314826441775133
+Human-Animal Conflict,5,dog,0.7445005988297596
+Human-Animal Conflict,6,dog attack,0.6773751533706278
+Human-Animal Conflict,7,attack,0.6773751533706278
+Human-Animal Conflict,8,dog attacks,0.6563176507550945
+Human-Animal Conflict,9,attacks,0.6563176507550945
+Human-Animal Conflict,10,dog bites,0.6197115733764241
+Human-Animal Conflict,11,injured dog,0.5733283348649951
+Human-Animal Conflict,12,bites,0.5622472195942088
+Killing,1,killing,1.7142230807190613
+Killing,2,culling,1.1583269335700266
+Killing,3,killed,0.9372666806222931
+Killing,4,man,0.8818647576218746
+Killing,5,cat,0.7183342405321009
+Killing,6,dog culling,0.717921199652684
+Killing,7,mohammadpur,0.6883215627898338
+Killing,8,jail killing,0.6346091334807131
+Killing,9,death,0.6059746267151168
+Killing,10,dog death,0.5987982203683595
+Killing,11,jail,0.5605405234852634
+Killing,12,cat killing,0.5162095748553365
+Other,1,cats,0.7556715674562577
+Other,2,animal welfare,0.565854875832383
+Other,3,welfare,0.565854875832383
+Other,4,crocodile,0.5614308494002029
+Other,5,dogs,0.5026298061449938
+Other,6,news,0.3876102044441072
+Other,7,relocated,0.37469568428406724
+Other,8,fishing cats,0.37366269534316254
+Other,9,act,0.37346145176180656
+Other,10,meet,0.37290382471595857
+Other,11,friends,0.3615675182280024
+Other,12,welfare act,0.35128721647668726
+Poisoning,1,poisoning,1.2095383984857386
+Poisoning,2,poisoning japan,0.4998094820201321
+Poisoning,3,cat poisoning,0.4998094820201321
+Poisoning,4,city dhaka,0.4998094820201321
+Poisoning,5,activists protest,0.4998094820201321
+Poisoning,6,welfare activists,0.4998094820201321
+Poisoning,7,dog cat,0.4998094820201321
+Poisoning,8,protest dog,0.4998094820201321
+Poisoning,9,toxic cruelty,0.49559128268425023
+Poisoning,10,poisoning business,0.49559128268425023
+Poisoning,11,killed poisoning,0.49559128268425023
+Poisoning,12,mohammadpur 10,0.49559128268425023
+Rescue,1,prime,0.6164113155049767
+Rescue,2,rescue dog,0.6164113155049767
+Rescue,3,rescue,0.6164113155049767
+Rescue,4,calls obhoyaronno,0.6164113155049767
+Rescue,5,obhoyaronno rescue,0.6164113155049767
+Rescue,6,obhoyaronno,0.6164113155049767
+Rescue,7,minister calls,0.6164113155049767
+Rescue,8,prime minister,0.6164113155049767
+Rescue,9,minister,0.5088407637177882
+Rescue,10,calls,0.47228346325712284
+Rescue,11,cat rescued,0.442638170436641
+Rescue,12,stray cat,0.442638170436641

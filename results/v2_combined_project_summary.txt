@@ -1,0 +1,173 @@
+
+V2 FINAL COMBINED PROJECT SUMMARY
+=================================
+
+IMPORTANT INTERPRETATION
+------------------------
+The news dataset and field survey dataset represent
+different units of observation.
+
+News unit:
+One article / incident-related news record.
+
+Survey unit:
+One surveyed stray animal.
+
+Therefore, they are NOT merged row-by-row.
+They are integrated at the evidence and analytical level.
+
+
+A. NEWS INTELLIGENCE
+====================
+
+Final ML corpus:
+226 articles
+
+Best incident classifier:
+Linear SVM
+
+Macro F1:
+0.6068
+
+Weighted F1:
+0.7517
+
+SARI V2 scored records:
+226
+
+Mean SARI:
+1.550
+
+Maximum SARI:
+5.500
+
+Risk distribution:
+Low    : 191
+Medium : 35
+High   : 0
+
+
+B. FIELD SURVEY INTELLIGENCE
+============================
+
+Total surveyed animals:
+325
+
+Dogs:
+322
+
+Cats:
+3
+
+Vaccinated:
+32
+
+Vaccination rate:
+9.85%
+
+Sterilized:
+34
+
+Sterilization rate:
+10.46%
+
+Healthy:
+232
+
+Underweight / Malnourished:
+65
+
+Starved:
+28
+
+Animals with observed nutritional health concern:
+93
+
+Health concern rate:
+28.62%
+
+
+C. HUMAN BEHAVIOUR
+==================
+
+Friendly:
+259
+
+Scared-containing responses:
+56
+
+Aggressive-containing responses:
+10
+
+
+D. AREA RESIDENCY
+=================
+
+Yes:
+264
+
+No:
+21
+
+Not Sure:
+39
+
+
+E. LOCATION-WISE DESCRIPTIVE FINDINGS
+=====================================
+
+Highest observed health-concern rate:
+Uttar Badda
+(31.51%)
+
+Lowest observed vaccination rate:
+Dokkhin Badda
+(0.00%)
+
+Lowest observed sterilization rate:
+Jheelpar
+(0.00%)
+
+
+SCIENTIFIC CAUTION
+==================
+
+1. Survey findings describe the sampled Badda-area animals only.
+2. They must not be interpreted as Bangladesh-wide prevalence.
+3. Location comparisons are descriptive and sample sizes differ.
+4. SARI V2 is an interpretable heuristic score, not a clinical
+   or probabilistic risk estimate.
+5. ML performance reflects predictive agreement with the
+   project's weakly supervised / assisted-reviewed labels.
+6. The field survey does not provide an independent validation
+   benchmark for the news incident classifier.
+
+
+FINAL V2 ARCHITECTURE
+=====================
+
+NEWS INTELLIGENCE
+News collection
+-> relevance filtering
+-> Bangladesh scope filtering
+-> weak supervision + assisted review
+-> incident classification
+-> SARI V2
+-> explainability
+
+PLUS
+
+FIELD SURVEY INTELLIGENCE
+Animal survey
+-> privacy-safe cleaning
+-> demographics
+-> health condition
+-> vaccination
+-> sterilization
+-> behaviour
+-> location analysis
+
+RESULT
+------
+Machine Learning-Driven Stray Animal Welfare
+Intelligence Framework for Bangladesh

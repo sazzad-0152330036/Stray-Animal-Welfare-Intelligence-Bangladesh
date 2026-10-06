@@ -1,0 +1,11 @@
+﻿Aspect,V1,V2
+Usable / analyzed articles,463,"226 final ML-corpus articles (from 1,094 expanded unique records)"
+Geographic scope handling,No dedicated Bangladesh scope-audit stage,Explicit Bangladesh-primary / foreign-background / out-of-scope separation
+Text used,Primarily article title,Title + available RSS description
+Incident classification,Rule-based keyword mapping,Weak supervision + assisted review + classical NLP ML
+Best ML model,Not applicable,Linear SVM
+Evaluation,No ML validation,Stratified 2-fold CV on weakly supervised + assisted-reviewed labels
+Best Macro F1,Not applicable,0.6068
+Best Weighted F1,Not applicable,0.7517
+Risk scoring,Incident-type-driven fixed score,Interpretable multi-factor SARI V2 heuristic index
+Risk levels observed,Low / Medium / High,Low / Medium; no High-risk article under current threshold

@@ -1,0 +1,61 @@
+
+V2 FIELD SURVEY SUMMARY
+=======================
+
+Total Surveyed Animals : 325
+
+Animal Type
+-----------
+Dogs : 322
+Cats : 3
+
+Vaccination
+-----------
+Vaccinated : 32
+Vaccination Rate : 9.85%
+
+Sterilization
+-------------
+Sterilized : 34
+Sterilization Rate : 10.46%
+
+Health Condition
+----------------
+Healthy : 232
+Underweight / Malnourished : 65
+Starved : 28
+
+Locations
+---------
+location
+Uttar Badda      219
+Dokkhin Badda     43
+Moddho Badda      39
+Jheelpar          24
+
+Age Distribution
+----------------
+age_stage
+Stage 2: Adolescence (7 months - 2 years)    191
+Stage 3: Young Adulthood (3 - 5 years)       102
+Stage 1: Puppy/ Kitten (birth - 6 months)     18
+Stage 4: Middle-Aged (6 - 9 years)            12
+Stage 5: The Senior Years (10 years >)         2
+
+Human Behaviour
+---------------
+human_behavior
+Friendly                 259
+Scared                    50
+Aggressive                 8
+Friendly + Scared          6
+Aggressive + Friendly      2
+
+Weight Parsing
+--------------
+weight_parse_status
+Range                               269
+Lower bound only                     28
+Exact / Approximate single value     26
+Upper bound only                      1
+Unparsed                              1

@@ -1,0 +1,12 @@
+﻿data_source,metric,value
+Field Survey,Surveyed animals,325.0
+Field Survey,Dogs,322.0
+Field Survey,Cats,3.0
+Field Survey,Vaccination rate (%),9.85
+Field Survey,Sterilization rate (%),10.46
+Field Survey,Health concern rate (%),28.62
+News Intelligence,Final ML corpus,226.0
+News Intelligence,Best model Macro F1,0.6068
+News Intelligence,Best model Weighted F1,0.7517
+News Intelligence,Mean SARI V2,1.55
+News Intelligence,Maximum SARI V2,5.5

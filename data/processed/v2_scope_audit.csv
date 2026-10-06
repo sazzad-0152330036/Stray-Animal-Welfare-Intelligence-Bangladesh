@@ -1,0 +1,691 @@
+﻿v2_article_id,title,source,geo_signal,project_scope_match,wildlife_only,scope_class
+1,Stray dog euthanasia protocol: Animal rights outfit PFA moves Kerala HC - The New Indian Express,The New Indian Express,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+2,"‘You can kill me, but you’re not killing my dog’: Hamilton woman recounts dog attack - The Spec",The Spec,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+3,"Gulshan Society, 'Dawat' launch drive to vaccinate, collar stray dogs in Dhaka - The Business Standard",The Business Standard,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+4,Stray dog attack on niece still haunts aunt - The Star,The Star,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+5,"Free animal care, tree saplings distributed in Tangail - dailyasianage.com",dailyasianage.com,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+6,Baridhara DOHS residents protest guards’ alleged assault over stray-animal feeding - New Age BD,New Age BD,Bangladesh news source,False,False,OUT_OF_SCOPE
+7,Dhaka begins rabies vaccination and collaring drive for stray dogs - The Climate Watch,The Climate Watch,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+8,"Stray dogs get vaccines, collars in Dhaka - The Financial Express",The Financial Express,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+9,"Stray dogs in Dhaka get rabies shots, identification collars - bdnews24.com",bdnews24.com,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+10,"Gulshan Society, DAWAT launch vaccination drive for stray dogs in capital - Views Bangladesh",Views Bangladesh,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+11,70-year-old man dies after stray dog attack in Telangana - The Siasat Daily,The Siasat Daily,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+12,Video: 7-year-old girl mauled by stray dogs in Ghaziabad residential society - India Today,India Today,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+13,Sentencing expected for Alberta woman convicted in dog attack that killed 11-year-old - thecanadianpressnews.ca,thecanadianpressnews.ca,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+14,"Santa Rosa man faces felony after his dogs killed man, state police say - Santa Fe New Mexican",Santa Fe New Mexican,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+15,"Bhubaneswar Mayor Warns Dog Owners After Patiala Attack, Urges Responsibility - Pragativadi",Pragativadi,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+16,DA weighs in on outrage after Sherman men accused in dog attack | Texas Headline - kten.com,kten.com,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+17,Insights from Bangladesh: Why we owe street animals a better solution than culling - asianews.network,asianews.network,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+18,Stray dog attack leaves 5-year-old injured in Kota - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+19,Why we owe street animals a better solution than culling - The Daily Star,The Daily Star,Bangladesh news source,False,False,OUT_OF_SCOPE
+20,​​Three-year-old girl seriously injured in stray dog attack in Beed - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+21,Unleashed dog that killed 2 smaller pets in Hong Kong faces euthanasia - asianews.network,asianews.network,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+22,Four-year-old boy mauled by stray dogs in Ghaziabad dies in hospital 5 days on - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+23,Khandwa man dresses as a dog in front of ADM to protest against stray dog menace - The Economic Times,The Economic Times,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+24,Rabies deaths are rising. What is going wrong? - The Telegraph,The Telegraph,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+25,MCD seeks land at Ghazipur for 2nd dog shelter - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+26,What cruelty to animals says about our society - The Daily Star,The Daily Star,Bangladesh news source,False,False,OUT_OF_SCOPE
+27,Rethinking Justice for Animals in Bangladesh - The London School of Economics and Political Science,The London School of Economics and Political Science,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+28,"Animal cruelty case ends with Tk 300 stamp apology, raising legal concerns - Views Bangladesh",Views Bangladesh,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+29,Civic body liable to compensate stray dog attack victims: Kerala HC - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+30,Kerala High Court orders panchayat to compensate stray dog attack victim - The Hindu,The Hindu,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+31,Police say autopsy on Manitoba animal rescue worker indicates death by dog attack - thecanadianpressnews.ca,thecanadianpressnews.ca,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+32,1 person critically injured in Killeen duplex fire; cat killed | Local News - kdhnews.com,kdhnews.com,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+33,Fishing cat killed in Howrah village - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+34,"Four months, one bicycle & 'Pa': Assam teen pedals 5,000 km for animal welfare - The Assam Tribune",The Assam Tribune,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+35,Microchipping begins at Ghazipur ABC centre as stray dog tagging drive expands - ThePrint,ThePrint,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+36,"DNCC says it did not remove Baridhara DOHS dogs, warns against illegal relocation - The Daily Star",The Daily Star,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+37,"Reedsburg woman injured, dog killed in wrong-way crash on I-41 - Wisconsin State Journal",Wisconsin State Journal,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+38,Ethical use of animals in biomedical research in Bangladesh - The Daily Star,The Daily Star,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+39,How wild animals sold openly in Mirpur pet market - Daily Observer,Daily Observer,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+40,Claims of free-roaming dog relocation resurface in Dhaka’s Baridhara DOHS - The Daily Star,The Daily Star,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+41,Cruelty to animal in Narsingdi: Action taken against accused following PM's directive - The Business Standard,The Business Standard,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+42,"Viral dog abuse video leads to arrest, PM directs legal action against perpetrators - Views Bangladesh",Views Bangladesh,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+43,"20 Injured in Stray Dog Attacks in Lalmohan, Bhola - businesstimes-bd.com",businesstimes-bd.com,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+44,Residents report leopard sighting after pet dog killed - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+45,HC issues rule against removal of community dogs - daily-sun.com,daily-sun.com,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+46,Aggressive Dog Shot And Killed At East Wenatchee Apartment Complex - Source ONE News,Source ONE News,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+47,Animal activists in Dhaka plan human chain to protest stray dog culling calls - Bonik Barta,Bonik Barta,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+48,Animal rights group urge govt to protect stray dogs - New Age BD,New Age BD,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+49,Dhaka's forgotten residents: Rethinking our relationship with animals - The Daily Star,The Daily Star,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+50,Colerain man in hospital following dog attack - Bedford Gazette,Bedford Gazette,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+51,"Justice for Jameson: GoFundMe launched for dog killed by LAPD during Knicks victory celebration, ‘The sweetest boy…’ | Hindustan Times - Hindustan Times",Hindustan Times,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+52,Three-year-old girl receives 50 stitches after stray dog attack in MP - India Today,India Today,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+53,3-year-old gets 50 stitches on face after stray dog attack in Madhya Pradesh - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+54,4-year-old girl injured in stray dog attack in Bengaluru; chilling moment caught on cam - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+55,NHRC seeks Punjab report on girl’s death after stray dog attack - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+56,8-year-old girl out to buy milk mauled to death by stray dogs in Morinda - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+57,"Bangladesh to equip upazila health complexes with anti-rabies vaccines, says minister - New Age BD",New Age BD,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+58,Four-tier anti-rabies vaccine mechanism in place at upazila hospitals - daily-sun.com,daily-sun.com,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+59,There will be no shortage of Anti-Rabies vaccines: Health Minister | JS Session - Bangladesh Sangbad Sangstha (BSS),Bangladesh Sangbad Sangstha (BSS),Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+60,DSCC rejects ‘false’ Facebook dog removal claims - The Financial Express,The Financial Express,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+61,Animal rights groups announce protest over SC dog relocation order - The Siasat Daily,The Siasat Daily,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+62,Coroner investigates after infant killed in dog attack - wfxg.com,wfxg.com,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+63,"HC orders animal protection plan, action against illegal horse slaughter - New Age BD",New Age BD,Bangladesh news source,False,False,OUT_OF_SCOPE
+64,Adnan Azad and the untold story of animal welfare in Bangladesh - The Business Standard,The Business Standard,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+65,"Cases Registered After Puppy, Stray Dog Killed In Separate Vehicle Accidents In Pune - Pune Mirror",Pune Mirror,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+66,DOWN THE RABBIT HOLE: Bangladeshi buffalo 'Donald Trump' pardoned – a brief history of animal sacrifices - inkl,inkl,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+67,Kansas man pleads guilty to abandoning body of teen who died in dog attack - kake.com,kake.com,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+68,NH Heroes: Neighbors jumped into action to save boy from dog attack - UnionLeader.com,UnionLeader.com,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+69,Punjab begins drive to remove stray dogs from public spaces after SC order on euthanasia: ‘Move freely without fear' | India News - Hindustan Times,Hindustan Times,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+70,"Rabies Vaccine Shortage In Bangladesh | The rabies crisis demands a science-based response, not panic - The Daily Star",The Daily Star,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+71,Thirsty Deer Narrowly Escapes Stray Dog Attack Near Forest Border - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+72,HC orders probe into dog bite deaths in Gaibandha - The Business Standard,The Business Standard,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+73,The fate of 70 million street dogs: An update - Humane World for Animals,Humane World for Animals,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+74,Why SC refused to recall its stray dog relocation order: 'Can’t remain oblivious to harsh realities' - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+75,The Wrong War on Rabies - The Daily Ittefaq,The Daily Ittefaq,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+76,'World's oldest dog' contender dies in France aged 30’ - Bangladesh Sangbad Sangstha (BSS),Bangladesh Sangbad Sangstha (BSS),Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+77,Dog bites kill five amid anti-rabies vaccine shortage in Gaibandha's hospitals - The Financial Express,The Financial Express,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+78,Five die in a week after being bitten by rabid dog in Gaibandha - United News of Bangladesh,United News of Bangladesh,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+79,Shortage of Rabies vaccine: Five people die in a week in Gaibandha - New Age BD,New Age BD,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+80,5 die in a week after being bitten by rabid dog in Gaibandha - The Business Standard,The Business Standard,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+81,"Four die, nine injured following dog bites in Gaibandha - daily-sun.com",daily-sun.com,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+82,Edmonton court hears of prior grisly dog attack in death of 11-year-old boy - TownAndCountryToday.com,TownAndCountryToday.com,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+83,Deer dies after dog attack in Kaptai - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+84,"After measles, rabies vaccine crisis hits Bangladesh - Dhaka Tribune",Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+85,"From measles, EPI disruption now extends to rabies vaccine crisis - The Business Standard",The Business Standard,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+86,GD filed over brutal dog killing in Badda - The Daily Star,The Daily Star,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+87,Govt hospitals facing acute rabies vaccine shortage - thefinancialexpress.com.bd,thefinancialexpress.com.bd,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+88,54 injured in dog bite incidents in Tangail - Bangladesh Sangbad Sangstha (BSS),Bangladesh Sangbad Sangstha (BSS),Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+89,Rabies vaccine supply halted for over six months at RMCH - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+90,50 injured in Jhenaidah stray dog attacks - New Age BD,New Age BD,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+91,"Stray dog goes on biting spree at UP wedding venue, guests flee in panic - India Today",India Today,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+92,"Fishing cat beaten to death in Ctg, offender fined only Tk2,000 - The Business Standard",The Business Standard,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+93,Telangana: Stray dog attack claims life of 3-yr-old girl in Peddapalli - The Siasat Daily,The Siasat Daily,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+94,"Rabies cases rising, but dog vaccination remains halted - Prothom Alo English",Prothom Alo English,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+95,"Dog killed, driver seriously injured in Attleboro crash - The Sun Chronicle",The Sun Chronicle,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+96,"Rabid dog fell into pond, not deliberately fed to crocodile: probe report - bdnews24.com",bdnews24.com,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+97,Bagerhat district administration probe finds no evidence dog was thrown to crocodile - The Daily Star,The Daily Star,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+98,Chaat Dog: NYC’s Latest Street Food Offering Is A Triumph Of The City’s Immigrant Culture - homegrown.co.in,homegrown.co.in,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+99,Bagerhat dog death: What it says about us - The Daily Star,The Daily Star,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+100,Dog's head sample sent to CDIL after crocodile attack in Bagerhat - Views Bangladesh,Views Bangladesh,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+101,Legal notice seeks action after dog allegedly thrown to crocodile in Bagerhat - The Daily Star,The Daily Star,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+102,Probe body formed as crocodile drags dog into water at Bagerhat shrine pond - The Daily Star,The Daily Star,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+103,Investigation under way as crocodile ‘let drag’ dog into at Bagerhat’s Khanjahan Ali Shrine pond - The Financial Express,The Financial Express,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+104,Probe committee formed over 'feeding' dog to Bagerhat shrine crocodile - The Business Standard,The Business Standard,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+105,Probe ordered into dog death in Bagerhat crocodile attack - Bangladesh Sangbad Sangstha (BSS),Bangladesh Sangbad Sangstha (BSS),Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+106,"Crocodile catches dog in Bagerhat's shrine pond, what really happe - Views Bangladesh",Views Bangladesh,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+107,Our animal protection laws - The Daily Star,The Daily Star,Bangladesh news source,False,False,OUT_OF_SCOPE
+108,"Stray dog attack cases, rabies deaths spike in ’25 - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+109,"One dog dead from injuries, another euthanized after attack in downtown Toronto - Toronto Star",Toronto Star,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+110,Furry Friends Foundation works to protect street dogs in Dhaka - asianews.network,asianews.network,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+111,Punjab's Stray Dog Crisis: Law Fails the Voiceless - Pakistan Today,Pakistan Today,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+112,Debunking the myth of 'stray-free' countries - The Daily Star,The Daily Star,Bangladesh news source,False,False,OUT_OF_SCOPE
+113,A tale of city's street dogs - The Financial Express,The Financial Express,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+114,A tale of city's street dogs - thefinancialexpress.com.bd,thefinancialexpress.com.bd,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+115,Dog removal move sparks outcry in Baridhara - The Daily Star,The Daily Star,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+116,Baridhara DOHS dog removal move sparks fresh outcry - The Daily Star,The Daily Star,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+117,"Attempt to save injured dog turns violent in Faridabad; rescuer critical, undergoes emergency surgery - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+118,Baridhara DOHS dog removal plan sparks outrage and public health concerns - The Climate Watch,The Climate Watch,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+119,Campus dog electrocution raises safety concerns and puts DUCSU VP in spotlight - The Climate Watch,The Climate Watch,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+120,Furry Friends Foundation works to protect street dogs in Dhaka - The Daily Star,The Daily Star,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+121,"Kerala Schoolgirl Narrowly Escapes Stray Dog Attack, Sparks Safety Concerns | Video - News18",News18,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+122,16 injured in dog attack on Eid day in Faridpur - thefinancialexpress.com.bd,thefinancialexpress.com.bd,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+123,"No, justice for animals and humans is not mutually exclusive - Asia News Network",Asia News Network,No Bangladesh signal,False,False,OUT_OF_SCOPE
+124,Woman killed in stray dog attack in Chakan; residents say 13 bitten same day - The Indian Express,The Indian Express,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+125,"Dog attacks in Salcete persist, third victim in a week - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+126,Shortage of anti-rabies vaccine in state amid rising dog bite cases - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+127,"100 stray dogs poisoned to death, buried near river in Telangana - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+128,"A Delhi couple keeps climbing Ghazipur landfill to feed 400 dogs. Chicken, rice & dahi - ThePrint",ThePrint,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+129,"Animal rights groups protest in Dhaka, urge Bangladesh govt to protect stray dogs - The Tribune",The Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+130,"DSCC removed dogs from DU campus despite animal welfare law, activists say - The Daily Star",The Daily Star,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+131,"Helicopter rescue saves men, dog from Australian floodwaters - Bangladesh Sangbad Sangstha (BSS)",Bangladesh Sangbad Sangstha (BSS),Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+132,"No, justice for animals and humans is not mutually exclusive - The Daily Star",The Daily Star,Bangladesh news source,False,False,OUT_OF_SCOPE
+133,What Homegrown Documentary 'Menace' Gets Right And Wrong About India's Stray Dogs - homegrown.co.in,homegrown.co.in,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+134,Man gets six months’ jail for killing neighbour's pet cat in Dhaka - The Daily Star,The Daily Star,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+135,"Man jailed for 6 months, fined Tk10,000 for brutally killing neighbour's cat in Mohammadpur - The Business Standard",The Business Standard,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+136,Dhaka man jailed six months for killing neighbour’s cat - New Age BD,New Age BD,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+137,Man gets 6 months in jail for killing pet cat in Mohammadpur - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+138,Man gets 6-month jail for killing neighbour’s pet cat in Mohammadpur - Bangladesh Sangbad Sangstha (BSS),Bangladesh Sangbad Sangstha (BSS),Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+139,Man gets six months jail for killing cat in Mohammadpur - bdnews24.com,bdnews24.com,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+140,Three sentenced to two and a half years in jail for killing 20 dogs in Dhaka - The Daily Star,The Daily Star,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+141,Parker mother dies following dog attack - Havasu News,Havasu News,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+142,4 injured in stray dog attack in Chennai - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+143,4-year-old boy mauled by dog at Bikaner govt school in Rajasthan; security lapses flagged - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+144,"Mother dog beaten to death in Patuakhali’s Kalapara, six puppies running around aimlessly - The Daily Star",The Daily Star,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+145,"Dog bite cases jump 16% in 2025 in Nagpur, highest in 4 years - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+146,"Dogs smuggled from Rangamati to Mizoram, sold for 10-12 thousand T - Views Bangladesh",Views Bangladesh,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+147,Maharashtra bank staffer dies by suicide over fear of getting rabies after dog bite - India Today,India Today,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+148,Stray dogs hunted in Rangamati for 'human consumption' - bdnews24.com,bdnews24.com,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+149,8-yr-old Arvi boy dies after stray dog attack - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+150,Larry the cat celebrates 15 years as No 10’s iconic chief mouser - United News of Bangladesh,United News of Bangladesh,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+151,Beyond the conflict: Experts outline roadmap for humane street dog solutions - Counterview,Counterview,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+152,Karnataka CM tussle: Minister HC Mahadevappa calls fellow partymen ‘street dogs’; triggers fresh slugfest - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+153,65-year-old injured in stray dog attack - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+154,Mohammadpur cat killing: Court defers verdict to 11 March - The Business Standard,The Business Standard,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+155,Muhammad Yunus and the 'seven sisters' dog whistle: How Bangladesh's outgoing chief rekindled tensions with India and whitewashed attacks on Hindus - opindia.com,opindia.com,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+156,Stray dog bites patrolling beach marshal at Colva - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+157,400+ vaccinated dogs died of rabies in Thiruvananthapuram in 2024-25 - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+158,"9-year-old mauled by stray dogs in Bundi school, critical - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+159,"Russians bomb shelter: 15 dogs killed, 5 struggling for their lives - Network for Animals",Network for Animals,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+160,"Now, pet owners have to register their dogs with Jamshedpur Notified Area Committee - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+161,Tarique Rahman inaugurates Free Animal Clinic - The Financial Express,The Financial Express,Bangladesh news source,False,False,OUT_OF_SCOPE
+162,Tarique inaugurates free animal treatment centre - New Age BD,New Age BD,Bangladesh news source,False,False,OUT_OF_SCOPE
+163,Tarique inaugurates free animal clinic in Banani - The Financial Express,The Financial Express,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+164,Tarique Rahman inaugurates 'Free Animal Clinic' - The Daily Star,The Daily Star,Bangladesh news source,False,False,OUT_OF_SCOPE
+165,MP man killed in Raipur after feeding another dinner’s food to stray dog - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+166,Tarique Rahman inaugurates Free Animal Clinic in Banani - Views Bangladesh,Views Bangladesh,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+167,Tarique Rahman inaugurates free animal treatment centre - Bangladesh Sangbad Sangstha (BSS),Bangladesh Sangbad Sangstha (BSS),Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+168,Tarique Rahman inaugurates ‘Free Animal Clinic’ in Banani - businessinbangladesh.com.bd,businessinbangladesh.com.bd,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+169,Tarique Rahman opens free animal clinic - Banglanews24,Banglanews24,No Bangladesh signal,False,False,OUT_OF_SCOPE
+170,Tarique Rahman opens free animal clinic in Banani - en.bd-pratidin.com,en.bd-pratidin.com,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+171,Tarique inaugurates free animal clinic in Banani - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+172,GCC yet to figure out where to send relocated stray dogs - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+173,"Rising stray dog bite cases worry Nawada people, sterilisation centre to start soon - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+174,"Now, dog lovers in Kerala can feed strays at ABC centres - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+175,"In 3 years, 60% of 90,000 dog attack cases were in B’luru - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+176,Mohammadpur cat killing: Court to draw verdict on 17 February - The Business Standard,The Business Standard,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+177,"DU conducts rabies vaccination, sterilisation drive for campus animals - The Daily Star",The Daily Star,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+178,"Dog bites 7 children, an elderly in Bailhongal - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+179,Residents warned about coyotes after Elkhorn dog killed - Idaho Mountain Express Newspaper,Idaho Mountain Express Newspaper,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+180,8-yr-old girl injured in dog attack; pack chases kids - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+181,Beyond outrage: How Bangladesh can reform its animal rights regime - The Financial Express,The Financial Express,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+182,"300 more killed, Telangana dog toll 900 in a month - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+183,"35,000 stray dogs yet to be vaccinated - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+184,Mass dog killings rock Telangana: Another 300 stray canines killed in Jagtial district; sarpanch booked - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+185,"More stray dog killings come to light in Telanagana, 300 found buried in one spot - The Indian Express",The Indian Express,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+186,"‘Dog feeders responsible if stray dog attacks cause deaths’: SC warns against taking observations lightly, ... - Bhaskar English",Bhaskar English,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+187,Gopalganj faces rabies vaccine shortage - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+188,"Aloka, the stray dog in India who walked 100 days for peace - The Straits Times",The Straits Times,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+189,MCG resumes stray dog vaccination and sterilisation programme after 5-month hiatus | Hindustan Times - Hindustan Times,Hindustan Times,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+190,"To fulfil poll vow, sarpanches get over 500 stray dogs killed in 3 dists - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+191,Stray dogs maul 26-yr-old youth to death in Ferozepur - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+192,‘Hudson & Rex’ dogs suspected of being poisoned. Why the show kept the disturbing allegations quiet for years - Toronto Star,Toronto Star,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+193,"500 Stray Dogs Killed in 2 Telangana Villages to Fulfill Poll Promises, Probe On - The Quint",The Quint,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+194,Jackal rescued after dog attack undergoes surgery - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+195,Rajshahi div hospitals hard-hit by rabies vaccine shortage - New Age BD,New Age BD,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+196,"Telangana Mass Dog Killing, Bangladesh WC Venue Row, Raheman Dakait Arrest And More - The Times of India",The Times of India,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+197,Aviation safety a concern as stray dogs on prowl - The Financial Express,The Financial Express,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+198,"Stray dog attacks 40+ people in 2 days in Ujjain’s Mahidpur, dies after capture - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+199,Watch- Shreyas Iyer escapes a near Dog Bite before IND vs NZ ODIs - OneCricket,OneCricket,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+200,"Dogs can smell people scared of them and bite, Supreme Court tells pet lovers - India Today",India Today,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+201,‘Can’t read a man’s mind too’: Actor Ramya reacts to SC remark on stray dogs; asks if all men should be j - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+202,"CCC vaccinates over 15,000 stray dogs to tackle rabies - The Business Standard",The Business Standard,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+203,Dead stray dog found tied to billboard on plot near Adalaj - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+204,Dog feeding zones in M’luru to be decided soon - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+205,Protest held at Albert Hall against SC order on strays - The Times of India,The Times of India,No Bangladesh signal,False,False,OUT_OF_SCOPE
+206,"Supreme Court order not a licence to persecute stray dogs, say animal rights activists in Hyderabad - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+207,"MC Chandigarh launches massive dog catching drive, NGOs protest claiming illegality & cruelty - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+208,Strays chomp through records: Ludhiana dog bites hit a six-year high. - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+209,‘Relocation will aggravate human-dog conflict’ - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+210,HDMC plans a Rs 2.5cr dog shelter at Shivalli to relocate strays from public spaces - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+211,Badaun’s panic refuses to ease: Buffalo’s dog bite becomes village scare; villagers line up for anti-rabi - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+212,Dispute over pet: Dog bite escalated into quarrel between neighbours in Delhi's Geeta Colony - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+213,"Goat bitten by rabid dog sacrificed, meat served to 400 villagers in Chhattisgarh's Surguja; health camp - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+214,"Street dog attacks leave 12 injured in Ujjain, 4-year-old critical - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+215,The cat who doesn’t meow: Zaima Rahman offers a peek into life with Zebu - bdnews24.com,bdnews24.com,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+216,Inhumane act: Puppies burned to death in West Bengal for whimpering in cold; animal lovers protest - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+217,"PBI finds no evidence against accused in Mohammadpur dog poisoning case, plaintiff set to challenge report - The Business Standard",The Business Standard,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+218,"Love for German Shepherd: Distressed by pet dog’s illness, 2 sisters die by suicide in Lucknow; probe und - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+219,Maharashtra: Over 20 incidents of stray dog bites within 3 days in Udgir town - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+220,"Meet Jebu, Tarique Rahman's cat who stole the show - NewsBytes",NewsBytes,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+221,"Meet Jebu, Tarique Rahman’s Siberian cat who stole the spotlight after arriving in Bangladesh - Firstpost",Firstpost,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+222,A grieving street dog in Bangladesh and reflections on environmental humanities - Asia News Network,Asia News Network,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+223,Man arrested for killing cat after it attacked pregnant wife in Vadaj - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+224,FIR filed against nine for beating stray dog to death - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+225,"Party night’s tragic end: Teen girl, pet dog die as cars collide in Ludhiana. - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+226,Maharashtra: Thane Civic body announces measures to control stray dog population - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+227,'Horrible': Amazon bans delivery worker after doorbell footage revealed he stole a cat from California ho - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+228,A grieving street dog and reflections on environmental humanities - The Daily Star,The Daily Star,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+229,"Fishing cats need hotspot-based conservation in Bangladesh, research shows - news - Mongabay",news - Mongabay,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+230,Tarique Rahman stands by animal lover 'Ruhul Bhai' - Bangladesh Sangbad Sangstha (BSS),Bangladesh Sangbad Sangstha (BSS),Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+231,Tarique Rahman to stand by animal lover 'Ruhul Bhai' - Bangladesh Sangbad Sangstha (BSS),Bangladesh Sangbad Sangstha (BSS),Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+232,‘Tiger widows’ from the Sundarbans are restoring the big cat’s habitat - CNN,CNN,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+233,Why compassion for humans and animals is one fight - The Daily Star,The Daily Star,Bangladesh news source,False,False,OUT_OF_SCOPE
+234,What the killing of eight puppies reveals about us - The Daily Star,The Daily Star,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+235,Is this the wildlife experience we want? Bangladesh’s Mirpur Zoo is failing its animals - asianews.network,asianews.network,Explicit Bangladesh/location mention,False,True,OUT_OF_SCOPE
+236,Is this the wildlife experience we want? Mirpur Zoo is failing its animals - The Daily Star,The Daily Star,Explicit Bangladesh/location mention,False,True,OUT_OF_SCOPE
+237,Special initiative taken to manage stray dogs on St. Martin's Island - The Financial Express,The Financial Express,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+238,Do we care about animal cruelty? Bangladesh’s disturbing reality - Asia News Network,Asia News Network,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+239,Justice for animal cruelty - The Financial Express,The Financial Express,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+240,Do we care about animal cruelty? Bangladesh’s disturbing reality - The Daily Star,The Daily Star,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+241,Solace for a mourning mother dog in Bangladesh - Asia News Network,Asia News Network,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+242,Pabna mother dog given two puppies after losing her litter - The Business Standard,The Business Standard,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+243,What is the punishment for animal abuse in Bangladesh? - The Business Standard,The Business Standard,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+244,"8 puppies drowned in Ishwardi, officer asked to vacate quarter - The Daily Star",The Daily Star,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+245,"Larry, the Downing Street Cat inspects a Christmas Tree, and more around the world - Daily Maverick",Daily Maverick,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+246,Stars join public outcry after eight puppies found drowned in Ishwardi - The Daily Star,The Daily Star,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+247,Woman sent to jail for killing 8 puppies - The Daily Star,The Daily Star,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+248,Hearing on Mohammadpur pet cat killing case set for 12 January - The Business Standard,The Business Standard,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+249,"Eight puppies killed in Pabna, mother dog left grieving - Dhaka Tribune",Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+250,Testimonies on case over Mohammadpur resident killing neighbour's pet cat set for 2 Dec - The Business Standard,The Business Standard,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+251,"St Martin’s master plan proposes full dog sterilisation amid legal, ethical debate - Dhaka Tribune",Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+252,Ctg faces rabies vaccine shortage - The Daily Star,The Daily Star,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+253,Tamil actor Nivetha Pethuraj faces backlash over pro-stray dog remarks - India Today,India Today,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+254,A Cross-Sectional Study to Assess the Awareness and Health-Seeking Behavior Regarding Animal Bites Among Residents of Urban Slums in the Field Practice Area of a Medical College in Eastern India - cureus.com,cureus.com,No Bangladesh signal,False,False,OUT_OF_SCOPE
+255,"People stage protest at India Gate over SC's order to remove stray dogs from hospitals, schools, railways - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+256,Prisoners of demand and supply curves: Inside the cat market of Mirpur-1 - The Business Standard,The Business Standard,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+257,Dog lovers continue protests for 2nd day against Supreme Court ruling - madhyamamonline.com,madhyamamonline.com,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+258,Supreme Court's stray dog relocation order leads animal activists to seek better welfare measures - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+259,Animal abuse must stop: Jaya Ahsan - The Daily Star,The Daily Star,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+260,Brutal cat abuse in Dhanmondi under police investigation - Views Bangladesh,Views Bangladesh,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+261,Compassion and data can fix our stray animal crisis - The Business Standard,The Business Standard,Bangladesh news source,False,False,OUT_OF_SCOPE
+262,Animal Saviors of Bangladesh forms new executive committee - dailyasianage.com,dailyasianage.com,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+263,Animal Saviours of Bangladesh forms new committee - Daily Observer,Daily Observer,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+264,"Animal welfare demands political will, not sympathy - The Daily Star",The Daily Star,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+265,Mirpur DOHS Animal Welfare Society launches fifth CNVR campaign to protect stray dogs - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+266,Saving to death: How not to rescue wild animals - The Daily Star,The Daily Star,Bangladesh news source,False,False,OUT_OF_SCOPE
+267,Fear in Srinagar shifts from militancy to stray dogs as bite cases surge across Kashmir - Telegraph India,Telegraph India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+268,"Farida for ensuring care, protection of animals in zoos - Bangladesh Sangbad Sangstha (BSS)",Bangladesh Sangbad Sangstha (BSS),Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+269,Vaccination drive for dogs begins at KU - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+270,Bangladesh Animal Welfare Association provides treatment to sick horses in CXB - thefinancetoday.net,thefinancetoday.net,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+271,Deadly cat flu threatens Kenya’s suffering street cats - Network for Animals,Network for Animals,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+272,Over 70 injured after stray dog attack in Nepal - asianews.network,asianews.network,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+273,BAWA extends help toward Saintmartin animals - Bangladesh Sangbad Sangstha (BSS),Bangladesh Sangbad Sangstha (BSS),Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+274,"Brave dog in Kerala battles cobra to save owner, survives venomous bite - Gulf News",Gulf News,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+275,"Month-long vaccination drive for stray dogs, cats begins in Patuakhali - Bangladesh Post",Bangladesh Post,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+276,Nashua man fatally injured in dog attack while experiencing seizure - UnionLeader.com,UnionLeader.com,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+277,KU takes initiative for humane dog control - Bangladesh Sangbad Sangstha (BSS),Bangladesh Sangbad Sangstha (BSS),Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+278,"Stray dogs bite Kenya, Japan coaches at stadium in New Delhi during World Para Athletics Championships - Mathrubhumi English",Mathrubhumi English,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+279,Street cat crisis in historic Lamu in Kenya - Network for Animals,Network for Animals,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+280,"Dogs, cats get rabies vaccine in Nalchhiti - Bangladesh Sangbad Sangstha (BSS)",Bangladesh Sangbad Sangstha (BSS),Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+281,"Canine Vaccines Market Size, Share | Growth Report [2034] - Fortune Business Insights",Fortune Business Insights,No Bangladesh signal,False,False,OUT_OF_SCOPE
+282,Farida Akhter calls for raising mass awareness about rabies - Bangladesh Sangbad Sangstha (BSS),Bangladesh Sangbad Sangstha (BSS),Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+283,Fighting rabies: India to share its winning strategy with Southeast Asian neighbours - Mint,Mint,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+284,"KCC to launch vaccination prog for 7,000 stray dogs by Jan 2026 - Bangladesh Sangbad Sangstha (BSS)",Bangladesh Sangbad Sangstha (BSS),Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+285,Silent suffering: Animal cruelty continues to rise while cases drag on - The Business Standard,The Business Standard,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+286,Control street dog population: Haveri DC - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+287,Delhi issues guidelines for street dog management - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+288,"Monitoring body, awareness camps & more on Delhi govt's new rules for stray dog management; check list - The Economic Times",The Economic Times,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+289,UP government introduces “Life Imprisonment” for stray dogs that bite humans twice - WION,WION,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+290,The question of keeping exotic animals as pets - The Financial Express,The Financial Express,Bangladesh news source,False,False,OUT_OF_SCOPE
+291,"Animal rights, biodiversity tied to democracy, says Tarique - bnpbd.org",bnpbd.org,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+292,‘Animal and Life Fair’ held under the patronage of BNP Acting Chairman Tarique Rahman - businessinbangladesh.com.bd,businessinbangladesh.com.bd,No Bangladesh signal,False,False,OUT_OF_SCOPE
+293,Animal Cruelty Laws Must Be Strengthened and Strictly Enforced - dailyasianage.com,dailyasianage.com,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+294,Dog lovers gather for the Tim Howick-Smith Thousand Paw Walk at Albert Park - Fijivillage,Fijivillage,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+295,Bangladeshi slur comes into play in row over feeding strays - The Times of India,The Times of India,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+296,From culling threat to compassion: How Banani DOHS embraces stray dogs - The Daily Star,The Daily Star,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+297,Banani Old DOHS first in Bangladesh to achieve 100% dog vaccination and sterilisation - The Business Standard,The Business Standard,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+298,A ‘pawsitive’ step: Using gene testing to improve cats’ health - The Daily Star,The Daily Star,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+299,This cat had a rare condition where she attacked her tail. Now she's up for adoption. - USA Today,USA Today,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+300,Stray dog debate heats up in Khulna after abrupt catching attempt - The Daily Star,The Daily Star,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+301,"Evaluation of adherence to anti-rabies vaccination schedule and its predictive factors at Addis Alem hospital, Bahir Dar, Ethiopia - Nature",Nature,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+302,Shimla's campaign aims for 100% stray dog vaccination and sterilisation. Know more - India Today,India Today,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+303,"Kolkata shocker: Customs dog mauls 4-year-old at airport; handler absconds as family cries for help, FIR - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+304,"MCD identifying land for housing 6,000 stray dogs in phase 2 - The Hindu",The Hindu,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+305,Animal rights activists mark ‘Black Thursday’ at Jantar Mantar against stray dog removal - Telangana Today,Telangana Today,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+306,4-year-old girl dies of rabies four months after stray dog attack in Karnataka - India Today,India Today,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+307,Man bitten by pet dog dies of rabies in Salem - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+308,"This Muslim Country plans to kill 3000000 dogs due to...; not Indonesia, Saudi Arabia, Bangladesh, Turkey, it - India.Com",India.Com,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+309,"Kathmandu to sterilise over 10,000 street dogs this year - asianews.network",asianews.network,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+310,'Flaw in our system': Shashi Tharoor weighs in on SC dog relocation order; urges redirection of funds to - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+311,Opinion | Top Court's Stray Dogs Order Can Cost A Fortune. But That's Not The Point - NDTV,NDTV,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+312,‘Will look into it’: Chief Justice of India responds to uproar over Supreme Court's Delhi-NCR stray dog ban - wionews.com,wionews.com,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+313,India's top court orders Delhi authorities to move stray dogs to shelters - Reuters,Reuters,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+314,Sadia Khateeb questions Supreme Court’s stray dog relocation order: “Who is giving them this right?” - Bollywood Hungama,Bollywood Hungama,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+315,"‘Got 2,800 dogs killed,’ admits Karnataka MLC Bhojegowda: JD(S) leader claims, ‘poisoned their food, buried... - Bhaskar English",Bhaskar English,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+316,Over 37 lakh dog bites reported in a year: Solicitor general Tushar Mehta tells Supreme Court | India News - Hindustan Times,Hindustan Times,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+317,SC Issues Strong Directions To Control Menace Of Dog Bites & Rabies In Delhi - News On AIR,News On AIR,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+318,"Video: Stray Dog Attacks 8-Year-Old Boy, Father Outside Their House In Tamil Nadu's Madurai - Republic World",Republic World,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+319,Cruelty to animals must stop - thefinancialexpress.com.bd,thefinancialexpress.com.bd,No Bangladesh signal,False,False,OUT_OF_SCOPE
+320,What does the law say about the Bakerganj dog killers? - The Daily Star,The Daily Star,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+321,"Dog hanged in Barishal: One fined, three released on bond after viral video sparks outrage - The Business Standard",The Business Standard,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+322,International Tiger Day: Royal Bengal Tigers from India may cross borders as Sunderbans nears big cat saturation - The CSR Journal,The CSR Journal,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+323,"Man fined Tk 5,000 for hanging, beating dog to death in Bakerganj - The Daily Star",The Daily Star,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+324,Senior citizen dies in suspected stray dog attack in Bengaluru - The Hindu,The Hindu,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+325,Supreme Court Takes Suo Motu Cognisance of Fatal Stray Dog Attacks on Infants in Delhi - News On AIR,News On AIR,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+326,‘Alarming facts’: What SC said while taking cognisance of rising cases of stray dog bites | India News - Hindustan Times,Hindustan Times,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+327,Free-roaming dog populations and movement methodologies for global rabies elimination: knowns and unknowns – a scoping review - Frontiers,Frontiers,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+328,Alleged Animal Abuser Arrested for Stabbing Ex-Girlfriend at Malaysian University - Wake Up Singapore,Wake Up Singapore,No Bangladesh signal,False,False,OUT_OF_SCOPE
+329,Rabies vaccine shortage in Ctg puts lives at risk - The Business Standard,The Business Standard,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+330,Most public hospitals run out of anti-rabies vaccine - New Age BD,New Age BD,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+331,Dog bite remains a public health concern - The Financial Express,The Financial Express,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+332,Gruesome Eid al-Adha Animal Sacrifices Exposed In Bangladesh By Animal Recovery Mission - World Animal News,World Animal News,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+333,"FIR into brutal killing of stray dog in Sec 20, Pkl - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+334,Madhya Pradesh: No End To Dog Bite Menace In Dhar city - Free Press Journal,Free Press Journal,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+335,Over 91 lakh animals sacrificed this Eid in Bangladesh - The Daily Star,The Daily Star,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+336,Around 100 dead cats found at Japan woman's home - Bangladesh Sangbad Sangstha (BSS),Bangladesh Sangbad Sangstha (BSS),Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+337,Swedish search dog who saved 18 lives in Türkiye quakes dies - Hürriyet Daily News,Hürriyet Daily News,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+338,"Illegal zoos, caged lives and blistering heat: The silent suffering of Bangladesh’s Fishing Cats - The Business Standard",The Business Standard,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+339,Safety and tolerability of a novel monoclonal antibody cocktail for rabies post-exposure prophylaxis - Nature,Nature,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+340,Vaccine shortage leaves Ctg vulnerable to rabies threat - The Daily Star,The Daily Star,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+341,Meghalaya HC directs state to form stray dog management committee in 4 weeks - The Assam Tribune,The Assam Tribune,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+342,Eight injured in stray dog attack in Vikarabad - The Siasat Daily,The Siasat Daily,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+343,Is it okay to hurt animals just because they are not human? - The Daily Star,The Daily Star,Bangladesh news source,False,False,OUT_OF_SCOPE
+344,"Union Minister for Fisheries, Animal Husbandry & Dairying Shri Parshottam Rupala visits South West Garo Hills district, Meghalaya - PIB",PIB,No Bangladesh signal,False,False,OUT_OF_SCOPE
+345,Abuse of pet cat sparks outrage among netizens - The Daily Star,The Daily Star,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+346,Animal abuse outrages citizens: Grameenphone condemns incident allegedly involving employee - The Business Standard,The Business Standard,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+347,It’s 40°C and you’re still ignoring street animals? - The Daily Star,The Daily Star,Bangladesh news source,False,False,OUT_OF_SCOPE
+348,Delhi’s sterilisation centres key to managing human-stray dog conflict. But they’re all blood & filth - ThePrint,ThePrint,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+349,Dog’s teeth yanked out with pliers; pups & mom beaten to death in Madhya Pradesh - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+350,'Lost and broken': Ohio parents mourn baby killed in pitbull dog attack - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+351,Exemplary punishment demanded as video of microbus running over stray dog in Pallabi goes viral - The Business Standard,The Business Standard,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+352,Death of viral Pallas’s cat sparks conservation debate - Dialogue Earth,Dialogue Earth,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+353,Man arrested for brutally killing endangered fishing cat with spear in Chuadanga - The Business Standard,The Business Standard,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+354,Meet Qaium: An unapologetic dog whisperer - The Business Standard,The Business Standard,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+355,Community shocked after beloved dog Keeper killed - The Daily Star,The Daily Star,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+356,KK Mart store manager fired for pouring hot water on stray dog - Free Malaysia Today,Free Malaysia Today,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+357,Barisal struggling with rabies vaccine shortage - Daily Bonik Barta,Daily Bonik Barta,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+358,Bangladeshi arrested over viral dog abuse video in Senai - Malay Mail,Malay Mail,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+359,Johor police arrest suspect in viral dog abuse case - Malaysiakini,Malaysiakini,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+360,"44 wild animals rescued from resorts, shop in Gazipur - The Business Standard",The Business Standard,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+361,"Construction labourer found dead, stray dog attack suspected - The Hindu",The Hindu,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+362,"Bulldogs, poodles, retrievers and hounds: See photos from 2025 Westminster Dog Show - USA Today",USA Today,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+363,Why do we hurt helpless animals? - The Daily Star,The Daily Star,Bangladesh news source,False,False,OUT_OF_SCOPE
+364,Bangladesh observes World Fishing Cat Day for the first time today - The Business Standard,The Business Standard,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+365,"Two kittens of endangered leopard cats rescued, trafficker arrested - The Business Standard",The Business Standard,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+366,"4 Chicago teens charged with shooting coyote with bow, stomping animal to death - USA Today",USA Today,No Bangladesh signal,False,False,OUT_OF_SCOPE
+367,Rising pet bites strain rabies vaccine supply in Chattogram - The Daily Star,The Daily Star,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+368,"Grameenphone on blending the power of internet, friendship to better understand animal signals - marketech-apac.com",marketech-apac.com,No Bangladesh signal,False,False,OUT_OF_SCOPE
+369,"‘Dogs happy, we’re also happy’: Meet the 2 Bangladeshi workers caring for rescue dogs at a Singapore shelter - CNA Lifestyle",CNA Lifestyle,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+370,Serbian street dogs poisoned and shot to clean the streets - Network for Animals,Network for Animals,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+371,"Fact Check: This Picture Of Dog Holding A Child’s Body Is From Bangladesh, NOT Gaza - News Mobile",News Mobile,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+372,Old image of a dog holding a child’s body from Bangladesh goes viral as Gaza - english.factcrescendo.com,english.factcrescendo.com,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+373,The growing threat of 'Rabies in Rajbari' - The Business Standard,The Business Standard,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+374,"Power, corruption, morality: Bangladesh through the lens of Lord of the Flies and Animal Farm - Prothom Alo English",Prothom Alo English,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+375,African Wild Cat rescued by BSF along India-Bangladesh border - The Hans India,The Hans India,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+376,Chonk The ‘purrfect’ start for Bangladesh's first dry cat food brand - The Financial Express,The Financial Express,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+377,Man arrested for killing a Fishing Cat in Jhenaidah - The Business Standard,The Business Standard,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+378,"All about Vantara, the 3000-acre animal shelter launched by Anant Ambani in Jamnagar - The Times of India",The Times of India,No Bangladesh signal,False,False,OUT_OF_SCOPE
+379,Beyond tigers: Fishing cats and the conservation challenge in Bangladesh - The Business Standard,The Business Standard,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+380,"Just $20/£16 can sterilize a street cat in Lamu, Kenya - Network for Animals",Network for Animals,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+381,"The fate of Dhaka’s strays, a struggle against apathy - The Daily Star",The Daily Star,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+382,The silent suffering of stray animals - The Daily Star,The Daily Star,Bangladesh news source,False,False,OUT_OF_SCOPE
+383,Davanagere city records 735 dog bite cases in 10 months - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+384,Probe killing of stray animals - The Daily Star,The Daily Star,Bangladesh news source,False,False,OUT_OF_SCOPE
+385,Rampant animal abuse shows just how far we have to go - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+386,Japan Garden City's disturbing solution to a problem with stray dogs sparks outrage - United News of Bangladesh,United News of Bangladesh,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+387,Why this anger towards stray cats and dogs? - The Business Standard,The Business Standard,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+388,"Animal welfare activists protest dog, cat poisoning at Japan Garden City - Dhaka Tribune",Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+389,Japan garden city: Complaint filed over poisoning of stray animals - The Daily Star,The Daily Star,Bangladesh news source,False,False,OUT_OF_SCOPE
+390,The tragic fate of stray animals in Japan Garden City - The Daily Star,The Daily Star,Bangladesh news source,False,False,OUT_OF_SCOPE
+391,"Toxic cruelty in Mohammadpur as ‘10 dogs, 1 cat killed by poisoning’ - The Business Standard",The Business Standard,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+392,"Dogs Clamped, Poisoned & Shot for World Cup in Morocco - IDA - In Defense of Animals",IDA - In Defense of Animals,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+393,No dogs to be relocated from Banani DOHS - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+394,Video shows moment dog recognizes owner after being lost for five months in the wilderness - USA Today,USA Today,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+395,Animal welfare groups voice alarm over possible dog culling in Banani - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+396,"Fire breaks out at dog rescue in New York, reportedly killing more than 40 dogs - USA Today",USA Today,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+397,"Fact Check: This homeless dog lover didn't die in Israeli attacks in Gaza, photo is from 2020 - India Today",India Today,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+398,Biral Bari: A purrfect sanctuary for felines - The Business Standard,The Business Standard,Bangladesh news source,False,False,OUT_OF_SCOPE
+399,By 2030 we must eliminate rabies in Asia and the Pacific | FAO in Myanmar | منظمة الأغذية والزراعة للأمم المتحدة - Food and Agriculture Organization,Food and Agriculture Organization,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+400,By 2030 we must eliminate rabies in Asia and the Pacific - ຂ່າວສານປະເທດລາວ,ຂ່າວສານປະເທດລາວ,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+401,Strengthening capacity towards rabies elimination in Asia - A collective effort - Food and Agriculture Organization,Food and Agriculture Organization,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+402,Welcome to the feline kingdom in Bangladeshi villages - The Business Standard,The Business Standard,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+403,"Expat accused of killing cats, preparing food with cat meat detained - Edition.mv",Edition.mv,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+404,"Expat accused of killing cats, preparing food with cat meat - Edition.mv",Edition.mv,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+405,​How Indian street dog Jalebi migrated to Australia - The Economic Times,The Economic Times,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+406,"Punjab: 11, including 3 children, injured in stray dog attack in Kharar; 5-year-old boy serious - opindia.com",opindia.com,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+407,A decade of our street dog monitoring program has been a game changer for animals - Humane World for Animals,Humane World for Animals,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+408,Greater Hyderabad Municipal Corporation (GHMC) to tackle stray dog menace; here's how - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+409,"$20,000 fine for fatal dog attack on endangered Hawaiian monk seal - Animals 24-7",Animals 24-7,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+410,10-yr-old boy injured in stray dog attackin Washermenpet - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+411,Efforts to prevent deaths in dog attack not sufficient: HC - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+412,Video of dog rescue in India falsely shared as canines 'saved from Dhaka biryani outlets' - AFP Fact Check,AFP Fact Check,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+413,Dogs may be a threat to sea turtles worldwide - Science | AAAS,Science | AAAS,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+414,"Keir Starmer's Dog Whistle Comments About Bangladeshi Migrants are Shameful, Wrong and Dangerous - Modern Ghana",Modern Ghana,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+415,"Father, son die of suspected rabies after pet dog bite in Visakhapatnam - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+416,‘Caregivers of dog bite victims too must take anti-rabies jab’ - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+417,Greater Good Foundation seeks food donations to feed stray animals - Fijivillage,Fijivillage,No Bangladesh signal,False,False,OUT_OF_SCOPE
+418,Looking out for strays - China Daily,China Daily,No Bangladesh signal,False,False,OUT_OF_SCOPE
+419,Dog left in U-Haul at least 100 degrees inside while owners went to Florida beach: See video of rescue - USA Today,USA Today,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+420,Tigers in Peril As Bangladesh Shifts to Top Consumer in Illegal Trade - The Animal Rescue Site,The Animal Rescue Site,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+421,Looking out for strays: Dhaka’s young people unite to ensure animal rights - asianews.network,asianews.network,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+422,"""Service Dog"" Savagely Attacks American Airlines Passenger, Bites Employee In Face - liveandletsfly.com",liveandletsfly.com,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+423,4-year-old undergoes 3-hour surgery as neighbour's dog attacks in Dehradun - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+424,"Former Zimbabwe cricketer Guy Whittall mauled by leopard, pet dog comes to rescue - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+425,Navigating the rise in conflicts between humans and fishing cats in Bangladesh - news - Mongabay,news - Mongabay,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+426,Snapshot study of canine distemper virus in Bangladesh with on-site PCR detection and nanopore sequencing - Nature,Nature,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+427,"Stray dogs found dead in Mirpur amidst suspicion, allegations - Dhaka Tribune",Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+428,"In yet another stray dog attack, toddler mauled to death in Hyderabad - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+429,"Meet Boji, the dog who uses metro, ferry and tram to travel 30 km daily alone - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+430,"Who, in fact, let the dogs out? - The Business Standard",The Business Standard,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+431,Bangladesh needs a formalised animal rescue system - The Daily Star,The Daily Star,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+432,"Dog bites 8-yr-old boy in Kolar park, owner booked - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+433,New era for zoo animals in Bangladesh: Rangpur and National Zoos’ modern makeover - The Daily Star,The Daily Star,Explicit Bangladesh/location mention,False,True,OUT_OF_SCOPE
+434,Dipanwita Ridi's journey in establishing first animal shelter of Bangladesh - The Financial Express,The Financial Express,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+435,‘Over six million stray dogs in Sri Lanka’ - Island.lk,Island.lk,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+436,HC stresses need to issue licences to stray dog lovers - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+437,Download Rabies PEP Decision Making Poster - World Health Organization (WHO),World Health Organization (WHO),No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+438,Stray dog-bite cases: 32 to get compensation of 39L - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+439,Dhaka South pledges no dog removals at DU following protests - The Business Standard,The Business Standard,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+440,"94,000 hospitalised in a year after being bitten by animals - Prothom Alo English",Prothom Alo English,Bangladesh news source,False,False,OUT_OF_SCOPE
+441,Kharghar Sees Over 4200 Dog Bite Incidents in Past Five Years - lokmattimes.com,lokmattimes.com,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+442,You could save the next Sweetpea: How to adopt from the Puppy Bowl star's rescue - USA Today,USA Today,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+443,68-year-old grandmother dies after being attacked by dogs; family says breed is banned in UK - USA Today,USA Today,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+444,Conservation Status of Fishing Cats in Nepal - myRepublica,myRepublica,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+445,Bangladesh: A look inside Dhaka's first animal shelter - DW,DW,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+446,"Tina Datta Pens An Emotional Note On The First Anniversary Of Her Late Dog, Rani: The Strength You Gave Me And Continue To Give Me - Outlook India",Outlook India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+447,"Locals beat stray dog to death after it bit 4 people, including infant, in Kanpur - India Today",India Today,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+448,Stray dog attack claims life of an infant in Hyderabad - The Hindu,The Hindu,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+449,How to take care of stray animals this winter - The Daily Star,The Daily Star,Bangladesh news source,False,False,OUT_OF_SCOPE
+450,Stray dog's Goa adventure on scooter goes viral. Internet calls it little hitchhiker - India Today,India Today,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+451,The woman who gave up her home for Dhaka’s stray cats and dogs - Al Jazeera,Al Jazeera,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+452,Assessing multiple free-roaming dog control strategies in a flexible agent-based model - Nature,Nature,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+453,Rabies case studies - Food and Agriculture Organization,Food and Agriculture Organization,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+454,Bite that: Dog attack every 15 minutes; monkey every hour in Lucknow - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+455,Oral vaccination of dogs against rabies: Recommendations for field application and integration into dog rabies control programmes - World Health Organization (WHO),World Health Organization (WHO),No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+456,Parag Desai death: What hospital that treated him said on dog attack claim | India News - Hindustan Times,Hindustan Times,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+457,Why is India seeing so much rage against street dogs? - Scroll.in,Scroll.in,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+458,"Blood spilled from dog attack on Alyssa Healy resembled 'crime scene', says injured Aussie star - Nine.com.au",Nine.com.au,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+459,A police dog attacked a Black trucker on his knees. An Ohio city is dealing with the aftermath - AP News,AP News,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+460,Problems of owning a dog in Dhaka - The Daily Star,The Daily Star,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+461,"Rights Groups, NGOs Call For ‘Maha Rally’ Against Animal Abuse - Lokmarg",Lokmarg,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+462,Avoid the preventable: rabies eradication effort in Bangladesh through capacity building - Food and Agriculture Organization,Food and Agriculture Organization,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+463,World Rabies Day: FAO conducts vaccination campaign for Dhaka street dogs - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+464,Zero Rabies by 2030 in Bangladesh - Food and Agriculture Organization,Food and Agriculture Organization,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+465,Are only ‘aggressive’ breeds to blame for a rising dog bite problem? - Scroll.in,Scroll.in,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+466,"Ghaziabad boy dies of rabies over a month after dog bite, hid incident from parents out of fear - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+467,"Rescue Heroes: Alik, Chameli's journey to save stray animals - Dhaka Tribune",Dhaka Tribune,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+468,Woman who looks after 25 dogs calls for people to love and care for animals - Fijivillage,Fijivillage,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+469,"Three people injured in Oshawa dog attack, say Durham police - DurhamRegion.com",DurhamRegion.com,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+470,"Plano woman lost Yorkie in loose dog attack, wants city to do its part - Dallas News",Dallas News,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+471,Two-year-old mauled to death by stray dog in Gujarat - India Today,India Today,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+472,Can we look beyond the seasonal activism against animal cruelty? - The Daily Star,The Daily Star,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+473,Kerala stray dog culling: RTI reveals decline in aid for animal birth control - India Today,India Today,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+474,The Role of Dog Ecology in Canine Rabies Prevention and Control in Asia: Lessons from Indonesia and the Oceanic Region - CABI Digital Library,CABI Digital Library,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+475,Protecting the voiceless: A look at the Animal Welfare Act 2019 - The Business Standard,The Business Standard,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+476,Ending the scourge of animal cruelty - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+477,IPL 2023: Dog bite rules out Arjun Tendulkar from Lucknow Super Giants clash - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+478,Stray dog sterilization program conducted at JU - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+479,Istanbul and it's cats: The 'kitty capital' of the world - The Financial Express,The Financial Express,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+480,"Age, sterilization, and diseases: Mumbai's stray dog census set to begin in June - lokmattimes.com",lokmattimes.com,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+481,Cape Town woman granted close to R100 000 in damages after dog attack - capetownetc.com,capetownetc.com,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+482,"Delhi civic body sterilises 7,000 stray dogs in two months - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+483,"60-year-old man rapes pet dog for 2 years in Bengal, arrested after video goes viral - India Today",India Today,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+484,‘Just devastated’: Dog killed by coyote in Oakville backyard and the family is warning neighbourhood residents - Inside Halton,Inside Halton,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+485,"5-year-old mauled to death by stray dog in Telangana, 2nd such incident in a month - India Today",India Today,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+486,Puss in boots: fancy dress felines on the Bangladesh catwalk - Philstar.com,Philstar.com,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+487,One more boy hurt in stray dog attack as Telangana steps up measures to curb menace - The Indian Express,The Indian Express,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+488,Earthquake dog rescue and Cyclone Gabrielle: Wednesday’s best photos - The Guardian,The Guardian,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+489,"Pounds need to capture and re-home friendly dogs while aggressive, and sick dogs need to be put to sleep using euthanasia – Fiji Cabbies - Fijivillage",Fijivillage,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+490,Pet cafes: Where love for food and animals cohabit - The Business Standard,The Business Standard,Bangladesh news source,False,False,OUT_OF_SCOPE
+491,Her unusual compassion for animals - Prothom Alo English,Prothom Alo English,Bangladesh news source,False,False,OUT_OF_SCOPE
+492,Here’s why feeding stray dogs may be far from a heroic act - The Daily Star,The Daily Star,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+493,"BSF dog deployed by Bangladesh border has 3 pups, Court of Inquiry ordered in Shillong - The Times of India",The Times of India,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+494,"Meghalaya: BSF dog deployed on Bangladesh border gets pregnant, court of inquiry ordered - India Today NE",India Today NE,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+495,DSCC just can’t seem to get it right when it comes to dogs - The Daily Star,The Daily Star,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+496,Fans keep date with Bangladesh canine influencer in town for medical tourism - The Times of India,The Times of India,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+497,Tk500 tax per dog: Dhaka South begins new half-baked tax rules - The Business Standard,The Business Standard,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+498,"Stray dog found sleeping on hospital bed in UP's Azamgarh, video goes viral - India Today",India Today,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+499,Bangladesh Kennel Club helping you understand your dog better - The Daily Star,The Daily Star,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+500,How can we end the killing and torture of dogs? - The Business Standard,The Business Standard,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+501,Dhaka’s canine conundrum - The Daily Star,The Daily Star,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+502,"Fact Check: No, SC didn’t order against animal feeders in case the stray dogs bite; viral post is fake - Vishvas News",Vishvas News,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+503,Mass Dog Vaccination- using the One Health approach to prevent rabies - World Health Organization (WHO),World Health Organization (WHO),No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+504,How India aims to reduce conflicts over supervising stray dog population - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+505,"On International Dog Day, letâ€™s talk about undivided Bengalâ€™s only purebred hound - Get Bengal",Get Bengal,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+506,Plight of captive animals in Bangladesh National Zoo - Anadolu Ajansı,Anadolu Ajansı,Explicit Bangladesh/location mention,False,True,OUT_OF_SCOPE
+507,"Fiji now has an exploding street dog crisis, we call for free animal birth control program in Fiji – Greater Good Foundation - Fijivillage",Fijivillage,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+508,"Rights orgs concerned over animal abuse in Hawa movie, other films - The Business Standard",The Business Standard,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+509,Fortune finally favours fishing felines - Asia News Network,Asia News Network,No Bangladesh signal,False,False,OUT_OF_SCOPE
+510,Stray dogs scare visitors off on Cox’s Bazar beach - The Financial Express,The Financial Express,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+511,Every life matters at Animal Rescuers Bangladesh - The Daily Star,The Daily Star,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+512,Heartwarming moment stray cat rescued amid deadly Bangladesh floods - Yahoo News Australia,Yahoo News Australia,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+513,PAW Foundation for ensuring animal welfare in flooded areas - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+514,"Watch: Bird stealthily stalks cat, avoids making eye contact when the feline turns around - Scroll.in",Scroll.in,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+515,The misunderstood cat - The Daily Star,The Daily Star,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+516,Search on to nab car driver who ran over street dog - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+517,People scoff at cases filed for animals - Prothom Alo English,Prothom Alo English,Bangladesh news source,False,False,OUT_OF_SCOPE
+518,How a Bangladeshi Canadian is facing her fear of dogs — and reclaiming her life - CBC,CBC,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+519,Relocation of stray dogs from St Martin’s stopped after objection from green activists - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+520,"Street dog beaten to death with sticks, video goes viral - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+521,Dynamic modeling of female neutering interventions for free-roaming dog population management in an urban setting of southeastern Iran - Nature,Nature,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+522,Four cubs among five jungle cats beaten to death in Chuadanga - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+523,"Dog alleged attacks on worker & doctor land in court, first of such civil suits - The Independent Singapore News",The Independent Singapore News,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+524,"Worker, doctor seek damages over alleged dog attacks in first such civil suits to land in court - The Straits Times",The Straits Times,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+525,How animal lovers get around the moral dilemma of eating meat - Scroll.in,Scroll.in,No Bangladesh signal,False,False,OUT_OF_SCOPE
+526,‘They’re going to kill me:’ Skier recounts harrowing dog attack on Clear Lake north of Peterborough - The Peterborough Examiner,The Peterborough Examiner,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+527,The dire state of animal rights in Bangladesh - The Business Standard,The Business Standard,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+528,"India, Bangladesh, Srilanka, Nepal Animal Vaccine Market | 2030 - Allied Market Research",Allied Market Research,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+529,A tribute to the friends of the fishing cat - The Business Standard,The Business Standard,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+530,Ajax couple’s dog killed by coyote in their backyard - DurhamRegion.com,DurhamRegion.com,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+531,"Dog relocation restarts quietly in Dhaka South, defying laws - The Business Standard",The Business Standard,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+532,Demand Changes After Homeless Veteran’s Beloved Service Dog Is Killed - IDA - In Defense of Animals,IDA - In Defense of Animals,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+533,Camera-trap study reveals rare wild cat in northeastern Bangladesh - The Business Standard,The Business Standard,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+534,World Rabies Day tomorrow - Bangladesh Sangbad Sangstha (BSS),Bangladesh Sangbad Sangstha (BSS),Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+535,"Dog trainer Cesar Millan’s pit bull killed Queen Latifah’s dog, tried to cover it up: lawsuit - Yahoo",Yahoo,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+536,For the love of dogs: How a mangled dog in Cumilla reached a Baridhara home - The Business Standard,The Business Standard,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+537,Man assaulted for protesting animal abuse in Dhaka - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+538,Briton to evacuate 200 dogs and cats from his animal shelter in Kabul - wionews.com,wionews.com,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+539,What did the Prophet Mohammed really say about dogs? - animals24-7.org,animals24-7.org,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+540,"After fatal dog attack, residents say coyotes make Markham’s Mintleaf Park their home - YorkRegion.com",YorkRegion.com,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+541,Hundreds of animals left to die in Bangladesh pet shops - The Animal Reader,The Animal Reader,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+542,COVID-19 lockdown deaths of animals in Bangladesh pets shops spark outcry - Al Arabiya English,Al Arabiya English,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+543,COVID-19 lockdown pet store animal deaths outcry in Bangladesh | Daily Sabah - Daily Sabah,Daily Sabah,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+544,Lockdown deaths of animals in Bangladesh pet shops spark outcry - Dunya News,Dunya News,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+545,Lockdown deaths of animals in Bangladesh pet shops spark outcry - The Express Tribune,The Express Tribune,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+546,Gigantic 3D cat on Tokyo billboard cheers people up during coronavirus pandemic - South China Morning Post,South China Morning Post,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+547,Woman Goes to Court in Bid to Stop Surfside Demolition to Save Cat - Newsweek,Newsweek,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+548,Grameenphone sued over animal abuse in recent ad - The Business Standard,The Business Standard,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+549,From friend to foe: Free-roaming dogs overrun Navajo Nation - Santa Fe New Mexican,Santa Fe New Mexican,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+550,Predictors of free-roaming domestic dogs' contact network centrality and their relevance for rabies control - Nature,Nature,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+551,Concern about the number of starving horses in Bangladesh - The Animal Reader,The Animal Reader,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+552,A Moving Photo-Narrative On Kolkata’s Street Dog Doctor - homegrown.co.in,homegrown.co.in,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+553,Funding available through two Dogs Trust grants programmes - UK Fundraising,UK Fundraising,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+554,"Lockdown takes air, sunlight away from Kataban animals - The Business Standard",The Business Standard,Bangladesh news source,False,False,OUT_OF_SCOPE
+555,"Sunday Long Reads: Bangladesh on the global map, Sanya Malhotra’s interview, feral cats, and more - The Indian Express",The Indian Express,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+556,Fishing cat killed after colliding with a three-wheeler - Hiru News,Hiru News,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+557,DSCC halts dog removal drive - The Business Standard,The Business Standard,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+558,SPCA receives 9 reports of animal cruelty so far this year while 79 reports were received last year - Fijivillage,Fijivillage,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+559,Relocation of dogs in Dhaka city: A legal perspective - The Business Standard,The Business Standard,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+560,People start protecting neighbourhood stray dogs - The Business Standard,The Business Standard,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+561,Animal lovers distressed by CVASU veterinary hospital’s closure in Chattogram - The Business Standard,The Business Standard,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+562,Car kills leopard cat in Lawachara Park - The Business Standard,The Business Standard,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+563,The shameful relocation of stray dogs - The Business Standard,The Business Standard,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+564,Vanishing in silence: Our marvellous small cats - The Business Standard,The Business Standard,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+565,Pet dogs are being stolen in the west and tortured for pig hunting - Greater Good Foundation - Fijivillage,Fijivillage,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+566,Why are stray dogs still being caught? - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+567,High Court drops petition as DSCC suspends stray dog relocation - New Age BD,New Age BD,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+568,No relocation of stray dogs for now: Attorney general - Prothom Alo English,Prothom Alo English,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+569,Bangladesh far away from eliminating rabies with no initiative to control dogs - The Financial Express,The Financial Express,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+570,Stray dog relocation: A step against the age-old human-canine bond - The Business Standard,The Business Standard,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+571,Brave Rescue Dog Becomes First Canine Nobel Peace Prize Recipient - iHeartDogs.com,iHeartDogs.com,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+572,High Court asks DSCC to stop relocating stray dogs for now - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+573,"Pay up to Rs 3,000 for cremating dog at SDMC facility - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+574,Adopting the stray dogs - The Business Standard,The Business Standard,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+575,First dog cafe in Saudi Arabia delights pet lovers - Taipei Times,Taipei Times,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+576,DSCC Mayor Taposh to meet with animal welfare campaigners - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+577,Animal lovers continue protesting relocation of stray dogs - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+578,Why relocating stray dogs is not the solution - Daily Observer,Daily Observer,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+579,Green activists: Bring back the relocated dogs - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+580,DNCC to sterilize stray dogs unlike DSCC - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+581,Are Dhaka streets no longer safe for dogs? - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+582,DSCC denies culling stray dogs - The Business Standard,The Business Standard,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+583,DSCC: Photos of stray dog removal fake - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+584,Animal rights activist Maneka Gandhi urges Mayor Taposh to stop relocating stray dogs - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+585,"Street dogs tranquilized, removed from DU campus amid criticism - Dhaka Tribune",Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+586,"Why the relocation of street dogs is counterproductive, cruel - The Daily Star",The Daily Star,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+587,"Unique move to protect stray dogs, pedestrians - New Age BD",New Age BD,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+588,Why relocation of stray dogs is not the right way to go about it - The Daily Star,The Daily Star,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+589,"Attention DSCC: ""Dogs' Lives Matter"" - dailyasianage.com",dailyasianage.com,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+590,Dog lovers protest mass relocation of strays in Bangladesh - Philstar.com,Philstar.com,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+591,Animal lovers protest DSCC move to relocate stray dogs - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+592,DSCC starts illegally relocating stray dogs - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+593,PM Modi encourages people to adopt Indian breed dogs while praising 'canine soldiers' in address - The New Indian Express,The New Indian Express,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+594,Animal rights activists outraged over plans to relocate dogs in Bangladesh - The Animal Reader,The Animal Reader,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+595,Dog lovers outraged over plans to relocate Dhaka strays - Al Jazeera,Al Jazeera,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+596,Saving a Cat in These Bleak Times - New Canadian Media,New Canadian Media,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+597,"India: Female stray dog raped by 40-year-old man in Maharashtra, social media users furious - Gulf News",Gulf News,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+598,Prime minister calls Obhoyaronno to rescue dog - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+599,A spike in cruelty towards wild animals - The Business Standard,The Business Standard,Bangladesh news source,False,False,OUT_OF_SCOPE
+600,A Street Cat Named Bob official movie trailer - SMH.com.au,SMH.com.au,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+601,"Bob, London’s legendary street cat, has died. Watch some of his old videos here - Scroll.in",Scroll.in,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+602,"Mistaken as Cheetah tiger cubs in Comilla, turn out to be Leopard cats - Dhaka Tribune",Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+603,"'RIP my Bruno': Virat Kohli mourns death of his pet dog, posts emotional message - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+604,Coronavirus pandemic: How will stray animals survive? - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+605,Love for stray dogs in Chattogram - The Business Standard,The Business Standard,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+606,The Himalayan state of Bhutan tackles its stray dog menace - Dialogue Earth,Dialogue Earth,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+607,Cat skyscraper rescue deserves a round of a-paws - New York Post,New York Post,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+608,10 amazing things we achieved for dogs in the last decade - World Animal Protection,World Animal Protection,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+609,Around 18 injured in Hyderabad after stray dog attack - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+610,Parry Sound OPP weigh in on dog killed by trap near Rose Point Trail - parrysound.com,parrysound.com,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+611,Puppyville II celebrates 10 years of fighting for animal rights - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+612,Insights into Animal Protection Act in Bangladesh - Daily Observer,Daily Observer,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+613,Demographic characteristics of free-roaming dogs (FRD) in rural and urban India following a photographic sight-resight survey - Nature,Nature,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+614,‘Street Cat Named Bob’ coming to Portugal in November - Portugal Resident,Portugal Resident,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+615,"3 dogs killed, 8 disappeared from Pink City in 2 days - Dhaka Tribune",Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+616,"‘Pariah Dog’, documentary paying tribute to city’s stray dog feeders set for KIFF screening - The Times of India",The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+617,Can one go unchallenged by killing animals in Bangladesh? - United News of Bangladesh,United News of Bangladesh,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+618,Narayanganj man sued for killing cat - Prothom Alo English,Prothom Alo English,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+619,"Man, dog killed in crash with Galveston bus - The Daily News | Texas' Oldest Newspaper",The Daily News | Texas' Oldest Newspaper,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+620,An Overview of the Animal Welfare Act 2019 - The Daily Star,The Daily Star,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+621,Ending wanton cruelty towards animals - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+622,Nashik civic body finalizes agency for stray dog sterilization - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+623,Prisoners: A Photo Story Showing the Pain of Animals Kept in a Zoo in Bangladesh - SLR Lounge,SLR Lounge,Explicit Bangladesh/location mention,False,True,OUT_OF_SCOPE
+624,Eric Clapton leaves Turkey’s Kuşadası after dog’s death - Hürriyet Daily News,Hürriyet Daily News,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+625,248 stray dogs captured in first four weeks of 8‑week intensive Stray Dog Control Campaign - Fijivillage,Fijivillage,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+626,Parliament passes stricter law against animal cruelty - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+627,Dog-bite cases on the rise amid shortage of anti-rabies vaccine - Dawn,Dawn,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+628,Teen charged under Animal Cruelty Act for skinning kitten alive - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+629,This is why you have been seeing pink dogs - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+630,Is Bangladesh finally moving from culling to vaccinating dogs? - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+631,India is far behind Sri Lanka and Bangladesh in rabies prevention - Telegraph India,Telegraph India,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+632,Watch: Stray dog attacks child in Ahmedabad - India Today,India Today,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+633,Group bats for community-based approach vs. rabies - Philippine News Agency,Philippine News Agency,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+634,Mirpur DOHS authorities accused of dog culling - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+635,Woman accused of animal abuse after cat undergoes plastic surgery - Fijivillage,Fijivillage,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+636,ROBIN HOOD: THE ANIMAL RESCUER - The Daily Star,The Daily Star,Bangladesh news source,False,False,OUT_OF_SCOPE
+637,Bangladesh’s first-ever pet animal hospital opens in Dhaka - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+638,"“We can still save them”: wild cat conservationist Alan Rabinowitz, 65 - animals24-7.org",animals24-7.org,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+639,Cruelty against stray animals persists - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+640,Poison kills 20 stray dogs in Pune’s Hadapsar area | Hindustan Times - Hindustan Times,Hindustan Times,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+641,BBMP’s decision to cap pet numbers peeves dog lovers - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+642,Bangladeshi security guard who burnt 14 puppies and two dogs sentenced to six months in jail - The New Indian Express,The New Indian Express,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+643,Fast-track efforts to eliminate rabies: WHO - World Health Organization (WHO),World Health Organization (WHO),No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+644,Another leopard cat killed in road crash - The Daily Star,The Daily Star,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+645,What is the punishment for animal abuse in Bangladesh? - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+646,ALB sets example in dealing with animal cruelty - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+647,Dogs dominate Dhaka streets - thefinancialexpress.com.bd,thefinancialexpress.com.bd,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+648,Bangladesh struggles with cruelty towards animals - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+649,Most common form of intentional cruelty to animals is paraquat poisoning - Hoopes - Fijivillage,Fijivillage,No Bangladesh signal,False,False,OUT_OF_SCOPE
+650,"Humane Society International in Bangladesh calls on government authorities to address rabies and stray dog population with humane, legal methods - Humane World for Animals",Humane World for Animals,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+651,Endangered fishing cats fighting a losing battle | Gulf Times - Gulf Times,Gulf Times,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+652,Caught on camera: Dog bludgeoned to death for trying to save its master in Chennai - India Today,India Today,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+653,Kushtia villagers beat fishing cat to death - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+654,"Clinic for abused, injured animals opened - Dhaka Tribune",Dhaka Tribune,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+655,The countries where people still eat cats and dogs for dinner - BBC,BBC,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+656,A dog’s show of defiance - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+657,Animal Welfare Act gets cabinet nod - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+658,Dog killed during suspected coyote attack in south Mississauga backyard - Mississauga.com,Mississauga.com,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+659,I wish I were born a stray dog - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+660,"SPCA calls recent act of hanging of a dog, barbaric and inhumane - Fijivillage",Fijivillage,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+661,Five wins for dogs: the fight against rabies and inhumane culling - World Animal Protection,World Animal Protection,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+662,"On World Day, UN urges rabies control beyond human and animal health services - UN News",UN News,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+663,Photo Shoot Helps Raise Money For Animal Sanctuary - Citizens Journal,Citizens Journal,No Bangladesh signal,False,False,OUT_OF_SCOPE
+664,Blue 'magic' danglers to scare dogs - Telegraph India,Telegraph India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+665,Hundreds of stray dogs poisoned in Karachi - Dawn,Dawn,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+666,"Fear of stray dogs, how to stay say abroad - World Animal Protection",World Animal Protection,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+667,"Dog killed by coyotes near Forest Hill Park over weekend, owner says - Richmond Times-Dispatch",Richmond Times-Dispatch,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+668,Vets safeguarding animal-welfare and human health across the globe - World Animal Protection,World Animal Protection,No Bangladesh signal,False,False,OUT_OF_SCOPE
+669,Ban on import of foreign dog breeds evokes mixed reactions - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+670,First animal blood bank opens - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+671,India cow slaughter: Singer Leona Lewis uncovers shocking animal cruelty on the subcontinent - International Business Times UK,International Business Times UK,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+672,We can end rabies by 2030 - World Animal Protection,World Animal Protection,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+673,Dog attack survivor finds new home - Prothom Alo English,Prothom Alo English,Bangladesh news source,True,False,BANGLADESH_PRIMARY
+674,"Rabies 100 per cent preventable, UN health agency says on World Day - UN News",UN News,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+675,3 charged for torturing stray dog - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+676,MNS chief Raj Thackeray’s wife gets 65 stitches after dog attack - The Indian Express,The Indian Express,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+677,Bangladesh police shoot dead six tiger poachers after drastic fall in big cat numbers - South China Morning Post,South China Morning Post,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+678,How far will India's dog-lovers go to save strays? - BBC,BBC,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+679,"Abuse an animal, go to jail - Dhaka Tribune",Dhaka Tribune,Explicit Bangladesh/location mention,False,False,OUT_OF_SCOPE
+680,Controversial Bangladeshi Writer Taslima Nasreen Says She Will Return To India For Her Pet Cat - HuffPost,HuffPost,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+681,"Animal Cruelty in China, Revisited - The Diplomat – Asia-Pacific Current Affairs Magazine",The Diplomat – Asia-Pacific Current Affairs Magazine,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+682,Bangladesh tackles rabies through mass dog vaccination - World Health Organization (WHO),World Health Organization (WHO),Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+683,Animal welfare: why dogs are a development issue - The Guardian,The Guardian,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+684,Killing dogs is counter-productive to rabies control - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+685,Government determined to eliminate rabies by '20 - Dhaka Tribune,Dhaka Tribune,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+686,COLLARS NOT CRUELTY in the fight against rabies - PR Newswire Canada,PR Newswire Canada,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+687,Bangladesh animal activist saves dogs from brutal culls - Yahoo News Singapore,Yahoo News Singapore,Explicit Bangladesh/location mention,True,False,BANGLADESH_PRIMARY
+688,Dog catchers in action at Games village - The Times of India,The Times of India,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+689,Dog killed in Hastings Dog Park - theindependent.com,theindependent.com,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND
+690,California jury sees photos of dog attack as trial starts - The Coos Bay World,The Coos Bay World,No Bangladesh signal,True,False,FOREIGN_OR_BACKGROUND

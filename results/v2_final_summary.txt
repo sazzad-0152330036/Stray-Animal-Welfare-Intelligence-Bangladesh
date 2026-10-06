@@ -1,0 +1,31 @@
+===== V2 FINAL RESULTS SUMMARY =====
+
+Final ML corpus: 226 articles
+Best model: Linear SVM
+Accuracy: 0.7611
+Macro Precision: 0.7370
+Macro Recall: 0.5722
+Macro F1: 0.6068
+Weighted F1: 0.7517
+
+Incident distribution:
+  Other: 90
+  Disease: 39
+  Killing: 31
+  Conflict: 29
+  Abuse: 21
+  Human-Animal Conflict: 11
+  Poisoning: 3
+  Rescue: 2
+
+SARI V2:
+  Low: 191
+  Medium: 35
+  High: 0
+  Mean score: 1.550
+  Maximum observed score: 5.500
+
+Interpretation note:
+ML scores represent cross-validated predictive agreement with the current weakly supervised + assisted-reviewed label set; they are not a fully independent human-ground-truth benchmark.
+SARI V2 is an interpretable heuristic risk index, not a clinically validated or empirically calibrated probability.
+Rare classes, especially Rescue and Poisoning, have very small support and therefore unstable class-level estimates.
